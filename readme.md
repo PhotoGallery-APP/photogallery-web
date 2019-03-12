@@ -1,6 +1,6 @@
 <h1> Photogallery app</h1>
 
-<span> Official repo for photogallery mobile app</span>
+<span> Official repo for photogallery web app</span>
 
 <span> This Source code is under <b> MIT </b>licence.
 
